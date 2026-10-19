@@ -60,8 +60,6 @@ python -m pip install --upgrade pip
 pip install ultralytics jupyter
 ```
 
-If the notebook imports additional libraries, install those dependencies as well. For GPU acceleration, install a PyTorch build compatible with your system and CUDA setup.
-
 ### 4. Open the notebook
 
 ```bash
